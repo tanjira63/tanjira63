@@ -1,6 +1,6 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
+- 😄 My name is: yourname tanjira maseekuk
 - ⚡ Student id: ...
 - 🔭 I'm currently studying on Faculty of Engineering.
 
