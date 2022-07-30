@@ -1,7 +1,7 @@
 ### Hi there 👋 Nice to see u.
 
 - 😄 My name is: yourname tanjira maseekuk
-- ⚡ Student id: ...
+- ⚡ Student id: 63362747
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Developer Tech
