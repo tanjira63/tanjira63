@@ -5,7 +5,7 @@
 - 🔭 I'm currently studying on Faculty of Engineering.
 
 ## Career interest
-Software Tester 
+💻 Software Tester 
 
 ### Frameworks 
 <p align="left">
