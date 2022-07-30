@@ -4,7 +4,8 @@
 - ⚡ Student id: 63362747
 - 🔭 I'm currently studying on Faculty of Engineering.
 
-## Developer Tech
+## Career interest
+Software Tester 
 
 ### Frameworks 
 <p align="left">
