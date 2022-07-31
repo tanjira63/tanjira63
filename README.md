@@ -1,3 +1,5 @@
+[![image](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif)](#)
+
 # Hi i'm Tanjira , Welcone to my Github profile 👋
 
 - 😄 My name is: yourname : tanjira maseekuk
@@ -18,9 +20,6 @@
 
 ## Languages 
 <p align="left">
- <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a> 
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
