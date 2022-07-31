@@ -5,21 +5,21 @@
 - ⚡ Student id : 63362747.
 - 🔭 I'm currently studying on Faculty of Engineering.
 
-## Career interest
+## Career interest 👩‍💻
 - 💻 Software Tester 
 - 🖥️ Software Engineer
 - 👨🏽‍💻 Web Developer
 
 ## Aptitude/Subject of interest 📑
-- Computer Mathematics
+- Computer Mathematics 
 - Engineering Economics
 - Introduction to Digital Design
 
 
 ## Languages 
 <p align="left">
-<a href="#">
-    <img src="svg/dev/languages/c.svg" alt="c" style="vertical-align:top; margin:6px 4px">
+ <a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a> 
 
 <a href="#">
