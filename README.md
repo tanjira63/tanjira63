@@ -20,6 +20,9 @@
 
 ## Languages 
 <p align="left">
+<a href="#">
+    <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
 <a href="#">
     <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
@@ -28,19 +31,23 @@
 </P>
 
 
-## Tools 
+## Tools 🔨
 <p align="left">
 <a href="#">
     <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
   </a>
-
+  
+<a href="#">
+    <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
+  </a>
+  
  <a href="#">
     <img src="svg/dev/tools/vmware.svg" alt="vmware" style="vertical-align:top; margin:6px 4px">
   </a> 
 
 </P>
 
-## Devices / Manufacturers
+## Devices / Manufacturers 🖥️
 <p align="left">
 
 <a href="#">
