@@ -1,6 +1,6 @@
 [![image](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/lofi.gif)](#)
 
-# Hi i'm Tanjira , Welcone to my Github profile 👋
+# Hi i'm Tanjira , Welcome to my Github profile 👋
 
 - 😄 My name is: yourname : tanjira maseekuk
 - 😆 My nickname is Kiw.
